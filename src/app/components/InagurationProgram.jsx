@@ -49,7 +49,7 @@ const InaugurationProgram = () => {
       <div className="relative h-screen bg-indigo-800 overflow-x-hidden">
       <div className="absolute text-[100px] font-bold top-0 right-10 text-white/40">SWAYAMWARA SILKS</div>
         <div className="absolute inset-0 bg-gradient-to-r from-gray-900 to-pink-800 opacity-90" />
-        <div className="absolute bg-cover inset-0 bg-[url('https://www.ultimateevents.in/wp-content/uploads/2023/11/oioi-2-1536x1023.jpg')] opacity-10" />
+        <div className="absolute bg-cover bg-center inset-0 bg-[url('https://www.ultimateevents.in/wp-content/uploads/2023/11/oioi-2-1536x1023.jpg')] opacity-10" />
 
         <div className="relative z-10 h-full max-w-6xl mx-auto px-4 md:px-0 flex flex-col justify-center items-start py-16">
       <Image
