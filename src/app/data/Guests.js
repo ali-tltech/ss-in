@@ -1,27 +1,27 @@
 export const Guests = [
     {
-      name: "Dr. Eleanor Wright",
-      title: "Chief Innovation Officer",
+      name: "Jayaram",
+      title: "Actor",
       organization: "Future Technologies Institute",
       image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThbtUxuSG1K-jZMbq7_yYX_DA3eUBzDver_Q&s",
     },
     {
-      name: "Ambassador Michael Chen",
-      title: "Cultural Diplomat",
+      name: "Dulqar Salman",
+      title: "Actor",
       organization: "International Arts Council",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThbtUxuSG1K-jZMbq7_yYX_DA3eUBzDver_Q&s",
+      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcH2CrU-UDypbhnUjy_zgtBtZUjr0UHH2OuQ&s",
     },
     {
-      name: "Prof. Amara Okafor",
-      title: "Distinguished Scholar",
+      name: "Deyyana",
+      title: "Actress",
       organization: "Global Research Alliance",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThbtUxuSG1K-jZMbq7_yYX_DA3eUBzDver_Q&s",
+      image: "/dayyana.png",
     },
     {
-      name: "The Honorable James Wilson",
-      title: "State Representative",
+      name: "Ghabri",
+      title: "Singer",
       organization: "Office of Cultural Affairs",
-      image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcThbtUxuSG1K-jZMbq7_yYX_DA3eUBzDver_Q&s",
+      image: "/gabri.jpg",
     },
   ];
   
