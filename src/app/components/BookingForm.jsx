@@ -102,7 +102,7 @@ const BookingForm = ({ setIsDrawerOpen }) => {
         if (!res.ok || result.success === false) {
           if (result.message === "Phone number already exists." && result.data) {
             // Phone number already exists — show full details from backend
-            toast.success(`Phone number already exists!Ticket: ${result.data.ticketNumber}`);
+            toast.success(`You have already booked`);
             setReferenceId(result.data.ticketNumber);
             setIsDrawerOpen(false)
           } else {
